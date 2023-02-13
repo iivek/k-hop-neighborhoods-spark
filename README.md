@@ -1,5 +1,5 @@
-k-hop neighborhoods in pyspark
-================================
+K-hop neighborhood traversal (pyspark)
+======================================
 
 Input:
 ------
