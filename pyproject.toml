@@ -2,7 +2,7 @@
 name = "k-hop"
 version = "0.2.0"
 description = ""
-authors = ["SC"]
+authors = []
 
 [tool.poetry.dependencies]
 python = "^3.8"
